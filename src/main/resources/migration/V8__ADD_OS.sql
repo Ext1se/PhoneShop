@@ -1,0 +1,12 @@
+INSERT INTO `os` (`name`) VALUES ('iOS');
+INSERT INTO `os` (`name`) VALUES ('Android 4.4 KitKat');
+INSERT INTO `os` (`name`) VALUES ('Android 5.0 Lollipop');
+INSERT INTO `os` (`name`) VALUES ('Android 5.1 Lollipop');
+INSERT INTO `os` (`name`) VALUES ('Android 6.0 Marshmallow');
+INSERT INTO `os` (`name`) VALUES ('Android 7.0 Nougat');
+INSERT INTO `os` (`name`) VALUES ('Android 7.1 Nougat');
+INSERT INTO `os` (`name`) VALUES ('Android 8.0 Oreo');
+INSERT INTO `os` (`name`) VALUES ('Android 8.1 Oreo');
+INSERT INTO `os` (`name`) VALUES ('Android 9.0 Pie');
+INSERT INTO `os` (`name`) VALUES ('Android 10.0 X');
+INSERT INTO `os` (`name`) VALUES ('MIUI');

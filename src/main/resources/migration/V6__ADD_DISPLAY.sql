@@ -1,0 +1,10 @@
+INSERT INTO `display_type` (`name`) VALUES ('IPS');
+INSERT INTO `display_type` (`name`) VALUES ('AMOLED');
+INSERT INTO `display_type` (`name`) VALUES ('Super AMOLED');
+INSERT INTO `display_type` (`name`) VALUES ('OLED');
+INSERT INTO `display_type` (`name`) VALUES ('POMOLED');
+INSERT INTO `display_type` (`name`) VALUES ('POLED');
+INSERT INTO `display_type` (`name`) VALUES ('ILED');
+INSERT INTO `display_type` (`name`) VALUES ('QLED');
+INSERT INTO `display_type` (`name`) VALUES ('TFT');
+INSERT INTO `display_type` (`name`) VALUES ('LCD');

@@ -1,0 +1,10 @@
+INSERT INTO `color` (`name`, `value`) VALUES ('Черный', '#000a12');
+INSERT INTO `color` (`name`, `value`) VALUES ('Белый', '#ffffff');
+INSERT INTO `color` (`name`, `value`) VALUES ('Серый', '#9e9e9e');
+INSERT INTO `color` (`name`, `value`) VALUES ('Серебряный', '#e0e0e0');
+INSERT INTO `color` (`name`, `value`) VALUES ('Синий', '#303f9f');
+INSERT INTO `color` (`name`, `value`) VALUES ('Зеленый', '#4caf50');
+INSERT INTO `color` (`name`, `value`) VALUES ('Красный', '#f44336');
+INSERT INTO `color` (`name`, `value`) VALUES ('Розовый', '#e91e63');
+INSERT INTO `color` (`name`, `value`) VALUES ('Желтый', '#fdd835');
+INSERT INTO `color` (`name`, `value`) VALUES ('Золотой', '#fff176');

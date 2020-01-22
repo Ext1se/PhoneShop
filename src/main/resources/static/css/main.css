@@ -1,0 +1,7 @@
+/*.table td, .table th  {
+    text-align: center;
+}*/
+
+.table > thead > tr > th, .table > thead > tr > td {
+    vertical-align: middle;
+}
